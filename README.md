@@ -1,0 +1,2 @@
+# central
+my bare repoitory
